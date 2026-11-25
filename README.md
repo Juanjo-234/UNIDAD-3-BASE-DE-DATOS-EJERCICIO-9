@@ -131,7 +131,6 @@ A continuación, se detalla lo que se realiza en cada fase representada en el es
 * **TABLA CURSO, TABLA MODULO y TABLA LECCION:** Desglosan jerárquicamente la estructura académica de cada curso en sus módulos ordenados y sus respectivas lecciones individuales.
 * **TABLA ESTUDIANTE e INSCRIPCION:** Mantienen de forma limpia el padrón de alumnos y sus matrículas a los cursos.
 * **TABLA EVALUACION, TABLA PREGUNTAS y TABLA INTENTO_RESOLUCION:** Estructuran de manera independiente las instancias evaluativas por curso, el banco de preguntas asociado y el historial de intentos y calificaciones de cada estudiante.
-<img width="1512" height="1272" alt="EJERCICIO 9-MR drawio" src="https://github.com/user-attachments/assets/10f1ca4d-bb3e-484e-9134-73db78062c97" />
+<img width="6367" height="2778" alt="EJERCICIO 9-FASES DE NORMALIZACION drawio" src="https://github.com/user-attachments/assets/332e3548-1eb3-4474-a0e6-71ec0087d276" />
 
-![Uploading EJERCICIO 9-FASES DE NORMALIZACION.drawio.png…]()
 
